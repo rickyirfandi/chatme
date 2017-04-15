@@ -1,0 +1,1 @@
+Kalau ada pemberitahuan windows firewall klik allow
